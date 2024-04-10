@@ -1,0 +1,12 @@
+apple
+banana
+carrot
+dog
+elephant
+fish
+gorilla
+house
+igloo
+jaguar
+kangaroo
+lemon
