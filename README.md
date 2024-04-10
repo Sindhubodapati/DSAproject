@@ -1,4 +1,4 @@
-# Hangman Game.java
+# Hangman Game - java
 
 ## Introduction
 Hangman is a classic word-guessing game where players try to guess a secret word by suggesting letters within a certain number of attempts. The provided Java code implements a simple version of the Hangman game, allowing for both single-player and two-player modes.
